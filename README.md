@@ -1,4 +1,4 @@
-![Yo](Yo/foto.webp)
+![Yo](Yo/foto.png)
 
 
 
